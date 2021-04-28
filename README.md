@@ -10,4 +10,8 @@ Auto Dataset (Q8 and Q9): https://colab.research.google.com/drive/1UqAvDM14S7x4q
 
 Random Generated Questions (Q11, Q12, Q13, Q14) : https://colab.research.google.com/drive/11tQl7GqXexsuR4sgm6QdkuWtnXEWYlDv?usp=sharing
 
+# ISLR Chap 4 Classification 
+
+All Labs : https://colab.research.google.com/drive/1U8E_lHSW3TT3gxAP9XIp1mHw3tEsZWr2?usp=sharing
+
 
